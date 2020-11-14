@@ -2,8 +2,8 @@ import React from "react";
 
 const App:React.FC = () => {
     return(
-        <div>
-            hello reactawfawefewa
+        <div id="app">
+            react
         </div>
     )
 }
